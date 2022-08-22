@@ -1,6 +1,6 @@
 # MY Github Test Porject
 
-깃허브 긴으 테스트용 프로젝트 입니다.
+깃허브 기능 테스트용 프로젝트 입니다.
 
 ## Features
 
